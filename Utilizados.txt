@@ -1,0 +1,7 @@
+- font-awesome libreries = iconos
+
+- hero patterns = diseño del fondo
+
+- fonts oswald = letras y texto
+
+- pexels.com = imagenes
